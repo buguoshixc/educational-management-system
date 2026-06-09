@@ -1,0 +1,42 @@
+# 编译输出文件夹
+Debug/
+Release/
+x64/
+x86/
+Win32/
+
+# Visual Studio 用户设置
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# 编译生成的临时文件
+*.obj
+*.exe
+*.lib
+*.dll
+*.pdb
+*.ilk
+*.exp
+*.sdf
+*.opensdf
+*.VC.opendb
+*.log
+*.tlog
+*.lastbuildstate
+*.idb
+*.ipch
+
+# 其他
+[Dd]ebug/
+[Rr]elease/
+[Pp]ackages/
+*.o
+*.lo
+*.la
+*.al
+*.dylib
+*.dSYM/
+*.app
